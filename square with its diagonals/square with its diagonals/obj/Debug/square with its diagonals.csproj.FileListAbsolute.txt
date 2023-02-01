@@ -1,0 +1,5 @@
+D:\دانشگاه\سال اول\مبانی حاجی بگلو\gitgub practice\uni star\square with its diagonals\square with its diagonals\square with its diagonals\bin\Debug\square with its diagonals.exe.config
+D:\دانشگاه\سال اول\مبانی حاجی بگلو\gitgub practice\uni star\square with its diagonals\square with its diagonals\square with its diagonals\bin\Debug\square with its diagonals.exe
+D:\دانشگاه\سال اول\مبانی حاجی بگلو\gitgub practice\uni star\square with its diagonals\square with its diagonals\square with its diagonals\bin\Debug\square with its diagonals.pdb
+D:\دانشگاه\سال اول\مبانی حاجی بگلو\gitgub practice\uni star\square with its diagonals\square with its diagonals\square with its diagonals\obj\Debug\square with its diagonals.exe
+D:\دانشگاه\سال اول\مبانی حاجی بگلو\gitgub practice\uni star\square with its diagonals\square with its diagonals\square with its diagonals\obj\Debug\square with its diagonals.pdb
